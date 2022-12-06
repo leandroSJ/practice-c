@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670277751 source:/home/evolut/Documentos/language-c/marital-status/main.c
+	<stdio.h>
+	<stdlib.h>
+

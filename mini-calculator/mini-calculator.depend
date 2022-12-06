@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670279778 source:/home/evolut/Documentos/language-c/mini-calculator/main.c
+	<stdio.h>
+	<stdlib.h>
+
